@@ -10,7 +10,8 @@ description: Claudia Sol&iacute;s-Lemus is postdoc at University of Wisconsin - 
           <li><a href="{{ BASE_PATH }}/assets/cv.pdf">cv</a></li>
           <li><a href="https://github.com/crsl4">github</a></li>
           <li><a href="https://scholar.google.com.mx/citations?user=GrUypj8AAAAJ&hl=es&oi=ao">google-scholar</a></li>
-          <li><a href="http://pages.stat.wisc.edu/~claudia/">UW-Madison</a></li>
+          <li><a href="http://pages.stat.wisc.edu/~claudia/">uw-madison</a></li>
+          <li><a href="https://www.linkedin.com/in/claudia-solis-lemus-b64069122">linkedin</a></li>
       </ul>
   </div>
 </div>
