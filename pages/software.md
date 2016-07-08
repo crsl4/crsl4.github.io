@@ -21,6 +21,7 @@ A [Julia](http://julialang.org/) package with tools for phylogenetic networks, i
 To receive announcements about updates to PhyloNetworks, join the
 [PhyloNetworks google group](https://groups.google.com/forum/#!forum/phylonetworks-users).
 
+ <div class="photo"> <img src="../assets/pics/snaq.png"/> </div>
 ---
 
 #### <a name="ibpp"></a>[iBPP](https://github.com/cecileane/iBPP/)
