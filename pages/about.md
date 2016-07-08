@@ -5,22 +5,22 @@ description: Claudia Sol&iacute;s-Lemus is postdoc at University of Wisconsin - 
 ---
 
 I am a postdoc in UW-Madison working with professor [Bret Larget](http://www.stat.wisc.edu/~larget)
-on statistical computing methods for Bayesian phylogenetics. 
+on statistical computing methods for Bayesian phylogenetics.
 
 I did my PhD in [Statistics](http://www.stat.wisc.edu) at the [University of Wisconsin-Madison](http://www.wisc.edu)
 with professor [Cécile Ané](http://www.stat.wisc.edu/~ane) in the inference of phylogenetic networks to represent the
-tree of life expanded by extra hybridization edges. Understanding the evolutionary history of species is essential 
+tree of life expanded by extra hybridization edges. Understanding the evolutionary history of species is essential
 to conservation efforts and to discover the tree of life.
 
-I obtained my Master's degree in [Mathematics] at at the [University of Wisconsin-Madison](http://www.wisc.edu)
+I obtained my Master's degree in [Mathematics](http://www.math.wisc.edu) at the [University of Wisconsin-Madison](http://www.wisc.edu)
 with emphasis on probability theory.
 
 I am originally from Mexico City where I did my Undergraduate degrees
-in Actuarial Sciences and Applied Mathematics at [ITAM](http://www.itam.mx/en/index.php).
+in Actuarial Sciences and Applied Mathematics at [ITAM](https://www.itam.mx/en).
 
 
 
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/cv.pdf)
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}https://www.stat.wisc.edu/~claudia/cv.pdf)
 
 ---
 

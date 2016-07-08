@@ -1,6 +1,6 @@
 ---
 layout: page
-title: tutorials
+title: hobbies
 description: Claudia Solis-Lemus' hobbies
 ---
 
@@ -15,3 +15,5 @@ Swimming
 Running
 ---
 Volleyball
+---
+[Aquathon](http://www.madisonaquathon.com/)

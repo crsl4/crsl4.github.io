@@ -26,7 +26,7 @@ Advances in the analysis of reticulate population networks: Quartet-based infere
 (_Oct 28_)
 
 [Evolution Seminar Series](http://www.evolution.wisc.edu/node/30): Statistical inference of phylogenetic networks
-[![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/silo.pdf)
+[![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/ess_talk.pdf)
 (_Oct 15_)
 
 
@@ -36,11 +36,11 @@ Bayesian Models and Inference: Bayesian species delimitation combining multiple 
 (_Aug 11_)
 
 Inferring phylogenetic networks from quartets with maximum pseudolikelihood estimation
-[![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/talkMCEB.pdf)
+[![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/talk.pdf)
 [Mathematical and Computational Evolutionary Biology](http://www.lirmm.fr/MCEB2015/), Porquerolles, France
 (_Jun 22_)
 
-[The Hacker Within](http://www.thehackerwithin.org/wisconsin/)Short introduction on Julia
+[The Hacker Within](http://www.thehackerwithin.org/wisconsin/) Short introduction on Julia
 [![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/julia_talk.pdf)
 (_Apr 24_)
 
@@ -58,3 +58,4 @@ Seminario aleatorio: El papel de la Estad&iacute;stica en la inferencia del &aac
 [![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/talk_itam.pdf)
 [ITAM](https://www.itam.mx/en), Mexico City, Mexico
 (_Oct 17_)
+
