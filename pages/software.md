@@ -22,7 +22,7 @@ To receive announcements about updates to PhyloNetworks, join the
 Google group, [PhyloNetworks](https://groups.google.com/forum/#!forum/phylonetworks-users).
 
         <div class="span2">
-        <a href="../assets/pics/snaq.png">
+            <img src="../assets/pics/snaq.png"
         </div>
 
 ---

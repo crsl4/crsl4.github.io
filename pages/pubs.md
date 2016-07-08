@@ -43,4 +43,4 @@ Pimentel-Alarc&oacute;n D., C. Sol&iacute;s-Lemus. 2016. Crime detection via cro
 
 Sol&iacute;s-Lemus, C. (2015). Statistical methods to infer population structure with coalescence and gene flow.  PhD dissertation, Department of Statistics,
 University of Wisconsin-Madison
-[![pdf (653k)](icons16/pdf-icon.png)](assets/thesis.pdf)
+[![pdf (653k)](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/thesis.pdf)
