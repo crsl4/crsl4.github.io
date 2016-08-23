@@ -10,10 +10,8 @@ Yoga
 - [yogamag](http://www.yogamag.net/)
 
 ---
-Swimming
----
-Running
+[Races](https://www.athlinks.com/athletes/267606489): Swimming, running, [aquathon](http://www.madisonaquathon.com/)
 ---
 Volleyball
 ---
-[Aquathon](http://www.madisonaquathon.com/)
+
