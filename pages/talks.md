@@ -8,11 +8,11 @@ description: Claudia Solis-Lemus' talks
 
 ###  2016
 
-Instituto de Biolog&iacute;a - UNAM: Quartet-based inference of phylogenetic networks (_Nov 24_)
+Instituto de Biolog&iacute;a - UNAM: Quartet-based inference of phylogenetic networks, Mexico City, Mexico (_Nov 24_)
 
 [Simposio de Inferencia y Modelaci&oacute;n
 Estad&iacute;stica](http://sime.eventos.cimat.mx/): Bayesian
-phylogenetic inference for big data, Guanjuato, Mexico
+phylogenetic inference for big data, Guanajuato, Mexico
 (_Nov 21_)
 
 Advances in the analysis of reticulate population networks: Quartet-based inference of phylogenetic networks
