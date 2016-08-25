@@ -20,7 +20,7 @@ in Actuarial Sciences and Applied Mathematics at [ITAM](https://www.itam.mx/en).
 
 
 
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}https://www.stat.wisc.edu/~claudia/cv.pdf)
+[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)](http://pages.stat.wisc.edu/~claudia/cv.pdf)
 
 ---
 
