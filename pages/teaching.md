@@ -27,7 +27,8 @@ description: Claudia Solis-Lemus' teaching
 
 ### <a name="tutorials"></a>Tutorials
 
-#### Instituto de Biolog&iacute;a - UNAM: Introduction to PhyloNetworks and SNaQ
+#### Instituto de Biolog&iacute;a - UNAM
+##### Introduction to PhyloNetworks and SNaQ
 
 Same tutorial as in Evolution 2016, links below.
 
