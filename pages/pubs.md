@@ -19,6 +19,8 @@ description: Claudia Solis-Lemus' publications
 
 #### 2016
 
+Sol&iacute;s-Lemus C., An&eacute;, C. 2016. PhyloNetworks: Julia package for inference and manipulation of phylogenetic networks. Submitted.
+
 Sol&iacute;s-Lemus C., An&eacute;, C. 2016. Inferring phylogenetic networks with maximum pseudolikelihood under incomplete lineage sorting.
 [PLoS Genetics](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005896),
 [arxiv](http://arxiv.org/abs/1509.06075)
