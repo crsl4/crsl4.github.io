@@ -17,3 +17,31 @@ description: Claudia Sol&iacute;s-Lemus is postdoc at University of Wisconsin - 
   </div>
 </div>
 
+<table class="wide">
+<tr>
+  <td class="left">
+    <a href="http://onlinelibrary.wiley.com/doi/10.1111/evo.12582/abstract">
+        <img src="assets/pics/ibpp.png" alt="iBPP" title="iBPP"/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="http://sysbio.oxfordjournals.org/content/early/2016/05/04/sysbio.syw030.full.pdf?keytype=ref&ijkey=4YgLuAtchHF4QmS">
+        <img src="assets/pics/inconsistency.png" alt="Solis-Lemus et
+        al. (2016) Fig 3,7" title="Solis-Lemus et al. (2016) Fig 3,7"/>
+    </a>
+  </td>
+</tr>
+<tr>
+  <td class="left">
+    <a href="https://github.com/crsl4/PhyloNetworks.jl">
+        <img src="assets/pics/snaq3.png" alt="SNaQ" title="SNaQ"/>
+    </a>
+  </td>
+  <td class="right">
+    <a href="http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005896">
+        <img src="assets/pics/snaq2.png" alt="Solis-Lemus,Ane (2016) Fig 9b" title="Solis-Lemus,Ane (2016) Fig 9b"/>
+    </a>
+  </td>
+</tr>
+</table>
+
