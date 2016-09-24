@@ -4,7 +4,7 @@ title: talks
 description: Claudia Solis-Lemus' talks
 ---
 
-## Main talks
+## Selected talks
 
 ###  2016
 
