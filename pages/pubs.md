@@ -16,7 +16,7 @@ description: Claudia Solis-Lemus' publications
 
 ### research interests
 statistical inference of phylogenetics: theoretically solid,
-biologically realistics and computationally tractable models;
+biologically realistic and computationally tractable models;
 
 networks: phylogenetic, chemical reaction; 
 
