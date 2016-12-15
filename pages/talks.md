@@ -8,11 +8,16 @@ description: Claudia Solis-Lemus' talks
 
 ###  2016
 
+[Statistics Seminar](http://www.stat.wisc.edu/):  Phylogenetic inference for Big Data 
+[![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/stat_talk.pdf)
+(_Dec 14_)
+
 Instituto de Biolog&iacute;a - UNAM: Quartet-based inference of phylogenetic networks, Mexico City, Mexico (_Nov 24_)
 
 [Simposio de Inferencia y Modelaci&oacute;n
 Estad&iacute;stica](http://sime.eventos.cimat.mx/): Bayesian
 phylogenetic inference for big data, Guanajuato, Mexico
+[![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/cimat-talk.pdf)
 (_Nov 21_)
 
 Advances in the analysis of reticulate population networks: Quartet-based inference of phylogenetic networks
