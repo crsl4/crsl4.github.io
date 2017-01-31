@@ -6,6 +6,11 @@ description: Claudia Solis-Lemus' talks
 
 ## Selected talks
 
+###  2017
+
+[Mathematical Approaches to Evolutionary Trees and Networks](https://www.birs.ca/events/2017/5-day-workshops/17w5104):  Likelihood challenges for big trees and networks, Banff International Research Station, Canada
+(_Feb 13_)
+
 ###  2016
 
 [Statistics Seminar](http://www.stat.wisc.edu/):  Phylogenetic inference for Big Data 
