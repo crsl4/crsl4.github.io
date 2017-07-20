@@ -70,6 +70,14 @@ Same tutorial as in Evolution 2016, links below.
 
 ### <a name="mentoring"></a>Mentoring experience
 
+##### 2016
+- Software Development Project, **Parallelization of SNaQ
+  in PhyloNetworks**, [Josh McGrath](https://github.com/josmcg) - University of Wisconsin-Madison
+- Undergraduate Research Scholar, **Computing tools for
+  bayesian phylogenetic inference**, [Jordan Vonderwell](https://github.com/JVonderwell) - University of Wisconsin-Madison
+- Statistics Senior Honors Thesis, **Computing tools
+  and performance of PhyloNetworks**, [Nan Ji](https://github.com/frupaul) - University of Wisconsin-Madison
+
 ##### 2015
 - Statistics Senior Honors Thesis, **Inconsistency of species-tree methods under gene flow**, [Mengyao Yang](https://github.com/mengyaoyang) – University of Wisconsin-Madison
 - Integrated Biological Sciences Summer Research Program, **Visualizing inferred phylogenetic networks in Julia**, [John Spaw](https://github.com/JohnPSpaw) – University of Wisconsin-Madison

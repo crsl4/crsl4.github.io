@@ -44,9 +44,13 @@ Sol&iacute;s-Lemus C., L.L. Knowles and C. An&eacute;. 2015. Bayesian species de
 
 ### <a name="conference"></a>conference articles
 
+#### 2017
+
+Pimentel-Alarc&oacute;n D., Biswas A., C. Sol&iacute;s-Lemus. 2017.Adversarial Principal Component Analysis. IEEE International Symposium on Information Theory (ISIT) [PDF](https://danielpimentel.github.io/publications.html).
+
 #### 2016
 
-Pimentel-Alarc&oacute;n D., C. Sol&iacute;s-Lemus. 2016. Crime detection via crowdsourcing. 8th Mexican Conference on Pattern Recognition, Springer International.
+Pimentel-Alarc&oacute;n D., C. Sol&iacute;s-Lemus. 2016. Crime detection via crowdsourcing. 8th Mexican Conference on Pattern Recognition, Springer International [PDF](https://danielpimentel.github.io/publications.html).
 
 ### <a name="thesis"></a>dissertation
 
