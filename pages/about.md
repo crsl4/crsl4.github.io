@@ -4,8 +4,15 @@ title: about
 description: Claudia Sol&iacute;s-Lemus is postdoc at University of Wisconsin - Madison working with Bret Larget on Bayesian phylogenetics
 ---
 
-I am a postdoc in UW-Madison working with professor [Bret Larget](http://www.stat.wisc.edu/~larget)
-on statistical computing methods for Bayesian phylogenetics.
+I am a postdoc at the [Department of Human
+Genetics](https://genetics.emory.edu/) at [Emory
+University](http://www.emory.edu) working with professor [Michael
+Epstein](http://genetics.emory.edu/faculty/primary/epstein-michael.html)
+on Genome-Wide Association Studies.
+
+Last year, I was a postdoc in UW-Madison working with professor [Bret
+Larget](http://www.stat.wisc.edu/~larget) on statistical computing
+methods for Bayesian phylogenetics.
 
 I did my PhD in [Statistics](http://www.stat.wisc.edu) at the [University of Wisconsin-Madison](http://www.wisc.edu)
 with professor [Cécile Ané](http://www.stat.wisc.edu/~ane) in the inference of phylogenetic networks to represent the
@@ -30,18 +37,17 @@ in Actuarial Sciences and Applied Mathematics at [ITAM](https://www.itam.mx/en).
     <div class="row-fluid">
         <div class="span5">
             Claudia Sol&iacute;s-Lemus<br/>
-            <a href="http://www.stat.wisc.edu">Department of Statistics </a><br/>
-            <a href="http://www.botany.wisc.edu">Department of Botany </a><br/>
-            <a href="http://www.wisc.edu">University of Wisconsin&ndash;Madison</a><br/>
-            Birge Hall (room 312)<br/>
-            430 Lincoln Drive<br/>
-            Madison, Wisconsin 53706<br/>
+            <a href="https://genetics.emory.edu/">Department of Human Genetics </a><br/>
+            <a href="http://www.emory.edu">Emory University</a><br/>
+            Whitehead Biomedical Research Building<br/>
+            615 Michael St<br/>
+            Atlanta, GA 30322<br/>
             USA<br/><br/>
 
             <div id="hide_email">
-            Email: <code>clau</code><b>I</b><code>dia</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
-            </b><code>stat</code><b>So</b><code>.</code><b>please</b><code>wi</code><b>leave
-            </b><code>sc</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
+            Email: <code>csol</code><b>I</b><code>isl</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
+            </b><code>em</code><b>So</b><code>o</code><b>please</b><code>r</code><b>leave
+            </b><code>y</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
             </div>
         </div>
 
