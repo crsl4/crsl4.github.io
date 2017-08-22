@@ -40,7 +40,7 @@ in Actuarial Sciences and Applied Mathematics at [ITAM](https://www.itam.mx/en).
             <a href="https://genetics.emory.edu/">Department of Human Genetics </a><br/>
             <a href="http://www.emory.edu">Emory University</a><br/>
             Whitehead Biomedical Research Building<br/>
-            615 Michael St<br/>
+            615 Michael St, Room 305R<br/>
             Atlanta, GA 30322<br/>
             USA<br/><br/>
 
