@@ -24,9 +24,11 @@ epidemiology
 
 ### <a name="articles"></a>journal articles
 
-#### 2016
+#### 2017
 
-Sol&iacute;s-Lemus C., An&eacute;, C. 2016. PhyloNetworks: Julia package for inference and manipulation of phylogenetic networks. Submitted.
+Sol&iacute;s-Lemus C., Bastide, P., An&eacute;, C. 2017. PhyloNetworks: a package for phylogenetic networks. [Molecular Biology and Evolution](https://academic.oup.com/mbe/article/doi/10.1093/molbev/msx235/4103410/PhyloNetworks-a-package-for-phylogenetic-networks?guestAccessKey=230afceb-df28-4160-832d-aa7c73f86369)
+
+#### 2016
 
 Sol&iacute;s-Lemus C., An&eacute;, C. 2016. Inferring phylogenetic networks with maximum pseudolikelihood under incomplete lineage sorting.
 [PLoS Genetics](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005896),
