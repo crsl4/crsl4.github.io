@@ -7,6 +7,7 @@ description: Claudia Solis-Lemus' publications
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
+            <li><a href="https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao">google-scholar</a></li>
             <li><a href="#articles">articles</a></li>
             <li><a href="#conference">conference</a></li>
             <li><a href="#thesis">dissertation</a></li>
