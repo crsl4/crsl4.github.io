@@ -31,7 +31,7 @@ Spooner, D.M., Ruess, H., Arbizu, C.I., Rodriguez, F., Sol&iacute;s-Lemus. 2018.
 
 #### 2017
 
-Bastide, P., Sol&iacute;s-Lemus, C., Kriebel, R., Sparks, K.W., An&eacute;, C. 2017. Phylogenetic Comparative Methods on Phylogenetic Networks with Reticulations. [bioRxiv](https://www.biorxiv.org/content/early/2017/09/28/194050)
+Bastide, P., Sol&iacute;s-Lemus, C., Kriebel, R., Sparks, K.W., An&eacute;, C. 2017. Phylogenetic Comparative Methods on Phylogenetic Networks with Reticulations. [bioRxiv](https://www.biorxiv.org/content/early/2017/09/28/194050) [Syst Bio](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syy033/4985806?guestAccessKey=507189f8-9ff2-4e12-b17e-29c2a1b2e7ec)
 
 Sol&iacute;s-Lemus, C., Bastide, P., An&eacute;, C. 2017. PhyloNetworks: a package for phylogenetic networks. [Molecular Biology and Evolution](https://academic.oup.com/mbe/article/34/12/3292/4103410?guestAccessKey=1d2c94f2-f064-42ae-a652-ce14cd095442)
 

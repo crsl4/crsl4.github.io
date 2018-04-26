@@ -6,7 +6,19 @@ description: Claudia Solis-Lemus' talks
 
 ## Selected talks
 
+### 2018
+
+BUGS seminar - Georgia Institute of Technology:  Statistical methods to reconstruct phylogenetic networks
+[![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/talk-gatech.pdf)
+(_Jan 25_)
+
+
 ###  2017
+
+Microbiome group - Emory University:  Statistical methods to reconstruct phylogenetic networks
+[![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/talk-microbiome.pdf)
+(_Nov 29_)
+
 
 [Mathematical Approaches to Evolutionary Trees and Networks](https://www.birs.ca/events/2017/5-day-workshops/17w5104):  Likelihood challenges for big trees and networks, Banff International Research Station, Canada
 (_Feb 13_)
