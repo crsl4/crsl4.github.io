@@ -8,6 +8,14 @@ description: Claudia Solis-Lemus' talks
 
 ### 2018
 
+JSM - Advanced statistical inference for stochastic models of evolutionary biology:  Comparative methods in phylogenetic networks
+[![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/talk-jsm.pdf)
+(_Aug 1_)
+
+20th IMS New Researchers Conference:  Statistical inference of the Tree of Life
+[![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/talk-nrc.pdf)
+(_Jul 27_)
+
 BUGS seminar - Georgia Institute of Technology:  Statistical methods to reconstruct phylogenetic networks
 [![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/talk-gatech.pdf)
 (_Jan 25_)

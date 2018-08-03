@@ -7,6 +7,7 @@ description: Claudia Solis-Lemus' teaching
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav">
+            <li><a href="#knowledge">knowledge</a></li>
             <li><a href="#courses">courses</a></li>
             <li><a href="#tutorials">tutorials</a></li>
             <li><a href="#experience">past teaching</a></li>
@@ -15,6 +16,11 @@ description: Claudia Solis-Lemus' teaching
     </div>
 </div>
 
+### <a name="knowledge"></a>Useful links
+
+Every statistician should know:
+- Karl Broman's [notes](http://kbroman.org/Tools4RR/) on reproducible research
+- Version control: [notes](https://uw-madison-aci.github.io/2018-01-10-uwmadison-swc/) from Software Carpentry at UW-Madison (there might be more recent notes)
 
 ### <a name="courses"></a>Current courses
 
@@ -69,6 +75,10 @@ Same tutorial as in Evolution 2016, links below.
 - Spring 2010 Actuarial Mathematics III
 
 ### <a name="mentoring"></a>Mentoring experience
+
+##### 2018
+- Software Development Project, **Julia package for GAMuT test**, [Anna Voss](https://github.com/avoss3) - Emory University
+- Statistics Senior Honors Thesis, **GWAS data analysis for epilepsy**, Mengtong Hu - Emory University
 
 ##### 2016
 - Software Development Project, **Parallelization of SNaQ

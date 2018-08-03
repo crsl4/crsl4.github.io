@@ -53,6 +53,11 @@ Sol&iacute;s-Lemus, C., L.L. Knowles and C. An&eacute;. 2015. Bayesian species d
 
 ### <a name="conference"></a>conference articles
 
+#### 2018
+
+Sol&iacute;s-Lemus, C., Pimentel-Alarc&oacute;n D.,. 2018. Breaking the Limits of Subspace Inference. [56th Annual Allerton Conference on
+Communication, Control, and Computing](http://allerton.csl.illinois.edu/)
+
 #### 2017
 
 An&eacute;, C., Bastide, P., Mariadassou, M., Robin, S., Sol&iacute;s-Lemus C. 2017. Processus d'&eacute;volution r&eacute;ticul&eacute;e: tests de signal phylog&eacute;n&eacute;tique. [Journ&eacute;es de Statistique](http://jds2017.sfds.asso.fr/program/Soumissions/subm211.pdf)
