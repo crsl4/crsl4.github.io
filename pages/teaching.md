@@ -21,6 +21,7 @@ description: Claudia Solis-Lemus' teaching
 Every statistician should know:
 - Karl Broman's [notes](http://kbroman.org/Tools4RR/) on reproducible research
 - Version control: [notes](https://uw-madison-aci.github.io/2018-01-10-uwmadison-swc/) from Software Carpentry at UW-Madison (there might be more recent notes)
+- Tukey (1962) [The future of data analysis](https://projecteuclid.org/euclid.aoms/1177704711)
 
 ### <a name="courses"></a>Current courses
 
