@@ -8,6 +8,19 @@ description: Claudia Solis-Lemus' talks
 
 ### 2018
 
+Statistics Seminar - Creighton University:  Statistical methods to identify genes associated with disease
+[![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/gwas-talk2.pdf)
+(_Oct 26_)
+
+SACNAS - Data Science: The rise of the machines:  Identifying genes associated with disease
+[![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/gwas-talk.pdf)
+(_Oct 12_)
+
+SACNAS - Postdoctoral talks: Machine-learning the tree of life
+[![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/phylo-talk.pdf)
+(_Oct 13_)
+
+
 JSM - Advanced statistical inference for stochastic models of evolutionary biology:  Comparative methods in phylogenetic networks
 [![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/talk-jsm.pdf)
 (_Aug 1_)
