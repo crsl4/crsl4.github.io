@@ -18,11 +18,12 @@ description: Claudia Solis-Lemus' teaching
 
 ### <a name="knowledge"></a>Useful links
 
-Every statistician should know:
+Useful resources:
 - Karl Broman's [notes](http://kbroman.org/Tools4RR/) on reproducible research
 - Version control: [notes](https://uw-madison-aci.github.io/2018-01-10-uwmadison-swc/) from Software Carpentry at UW-Madison (there might be more recent notes out there)
 - Tukey (1962) [The future of data analysis](https://projecteuclid.org/euclid.aoms/1177704711)
 - R Markdown: [The Definite Guide](https://bookdown.org/yihui/rmarkdown/)
+- Rich Edwards (2015) [Bioinformatics is just like bench science and should be treated as such](http://cabbagesofdoom.blogspot.com/2015/08/bioinformatics-is-just-like-bench.html)
 
 ### <a name="courses"></a>Current courses
 
