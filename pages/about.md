@@ -4,13 +4,13 @@ title: about
 description: Claudia Sol&iacute;s-Lemus is postdoc at University of Wisconsin - Madison working with Bret Larget on Bayesian phylogenetics
 ---
 
-I am a postdoc at the [Department of Human
+I am an assistant professor at the Wisconsin Institute for Discovery and the Department of Plant Pathology at the University of Wisconsin-Madison.
+
+Before, I am a postdoc at the [Department of Human
 Genetics](https://genetics.emory.edu/) at [Emory
 University](http://www.emory.edu) working with professor [Michael
 Epstein](http://genetics.emory.edu/faculty/primary/epstein-michael.html)
-on Genome-Wide Association Studies.
-
-Last year, I was a postdoc in UW-Madison working with professor [Bret
+on Genome-Wide Association Studies, and before that, I was a postdoc in UW-Madison working with professor [Bret
 Larget](http://www.stat.wisc.edu/~larget) on statistical computing
 methods for Bayesian phylogenetics.
 
@@ -39,17 +39,16 @@ In my spare time, I enjoy swimming, running, biking and yoga!
     <div class="row-fluid">
         <div class="span5">
             Claudia Sol&iacute;s-Lemus<br/>
-            <a href="https://genetics.emory.edu/">Department of Human Genetics </a><br/>
-            <a href="http://www.emory.edu">Emory University</a><br/>
-            Whitehead Biomedical Research Building<br/>
-            615 Michael St, Room 305R<br/>
-            Atlanta, GA 30322<br/>
+            <a href="https://wid.wisc.edu/">Wisconsin Institute for Discovery </a><br/>
+            <a href="https://plantpath.wisc.edu/">Department of Plant Pathology </a><br/>
+            <a href="https://www.wisc.edu/">University of Wisconsin-Madison</a><br/>
+            Madison, WI 30322<br/>
             USA<br/><br/>
 
             <div id="hide_email">
-            Email: <code>csol</code><b>I</b><code>isl</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
-            </b><code>em</code><b>So</b><code>o</code><b>please</b><code>r</code><b>leave
-            </b><code>y</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
+            Email: <code>sol</code><b>I</b><code>islemus</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
+            </b><code>wi</code><b>So</b><code>o</code><b>please</b><code>s</code><b>leave
+            </b><code>c</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
             </div>
         </div>
 
