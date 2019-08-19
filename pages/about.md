@@ -47,7 +47,7 @@ In my spare time, I enjoy swimming, running, biking and yoga!
 
             <div id="hide_email">
             Email: <code>sol</code><b>I</b><code>islemus</code><b>don't</b><code>@</code><b>want</b><code></code><b>spam!
-            </b><code>wi</code><b>So</b><code>o</code><b>please</b><code>s</code><b>leave
+            </b><code>w</code><b>So</b><code>i</code><b>please</b><code>s</code><b>leave
             </b><code>c</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
             </div>
         </div>
