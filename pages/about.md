@@ -4,9 +4,9 @@ title: about
 description: Claudia Sol&iacute;s-Lemus is postdoc at University of Wisconsin - Madison working with Bret Larget on Bayesian phylogenetics
 ---
 
-I am an assistant professor at the Wisconsin Institute for Discovery and the Department of Plant Pathology at the University of Wisconsin-Madison.
+I am an assistant professor at the [Wisconsin Institute for Discovery](https://wid.wisc.edu/) and the [Department of Plant Pathology](https://plantpath.wisc.edu/) at the [University of Wisconsin-Madison](http://www.wisc.edu).
 
-Before, I am a postdoc at the [Department of Human
+Before, I was a postdoc at the [Department of Human
 Genetics](https://genetics.emory.edu/) at [Emory
 University](http://www.emory.edu) working with professor [Michael
 Epstein](http://genetics.emory.edu/faculty/primary/epstein-michael.html)
@@ -39,10 +39,10 @@ In my spare time, I enjoy swimming, running, biking and yoga!
     <div class="row-fluid">
         <div class="span5">
             Claudia Sol&iacute;s-Lemus<br/>
-            <a href="https://wid.wisc.edu/">Wisconsin Institute for Discovery </a><br/>
-            <a href="https://plantpath.wisc.edu/">Department of Plant Pathology </a><br/>
+            <a Office 3164 href="https://wid.wisc.edu/">Wisconsin Institute for Discovery </a><br/>
+            <a Office 476 href="https://plantpath.wisc.edu/">Department of Plant Pathology </a><br/>
             <a href="https://www.wisc.edu/">University of Wisconsin-Madison</a><br/>
-            Madison, WI 30322<br/>
+            Madison, WI 53715<br/>
             USA<br/><br/>
 
             <div id="hide_email">
