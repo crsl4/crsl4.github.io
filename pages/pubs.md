@@ -13,6 +13,10 @@ description: Claudia Solis-Lemus' publications
     </div>
 </div>
 
+#### 2019
+
+Sol&iacute;s-Lemus, C., Ma, X., Hostetter II, M., Kundu, S., Qiu, P., Pimentel-Alarc&oacute;n D.,. 2019. Prediction of functional markers of mass cytometry data via deep learning. Biostatistics and Bioinformatics, Springer.
+
 #### 2018
 
 Sol&iacute;s-Lemus, C., Pimentel-Alarc&oacute;n D.,. 2018. Breaking the Limits of Subspace Inference. [56th Annual Allerton Conference on
