@@ -6,6 +6,12 @@ description: Claudia Solis-Lemus' talks
 
 ## Selected talks
 
+### 2019
+
+Women in STEM conference - Georgia State University: Through the looking glass of Data Science
+[![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/gwas-talk2.pdf)
+(_Apr 5_)
+
 ### 2018
 
 Statistics Seminar - Creighton University:  Statistical methods to identify genes associated with disease

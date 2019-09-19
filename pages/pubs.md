@@ -15,7 +15,7 @@ description: Claudia Solis-Lemus' publications
 
 #### 2019
 
-Sol&iacute;s-Lemus, C., Ma, X., Hostetter II, M., Kundu, S., Qiu, P., Pimentel-Alarc&oacute;n D.,. 2019. Prediction of functional markers of mass cytometry data via deep learning. Biostatistics and Bioinformatics, Springer.
+Sol&iacute;s-Lemus, C., Ma, X., Hostetter II, M., Kundu, S., Qiu, P., Pimentel-Alarc&oacute;n D., 2019. Prediction of functional markers of mass cytometry data via deep learning. Biostatistics and Bioinformatics, Springer.
 
 #### 2018
 
