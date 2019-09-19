@@ -1,32 +1,23 @@
 ---
 layout: page
 title: about
-description: Claudia Sol&iacute;s-Lemus is postdoc at University of Wisconsin - Madison working with Bret Larget on Bayesian phylogenetics
+description: Claudia Sol&iacute;s-Lemus
 ---
 
 I am an assistant professor at the [Wisconsin Institute for Discovery](https://wid.wisc.edu/) and the [Department of Plant Pathology](https://plantpath.wisc.edu/) at the [University of Wisconsin-Madison](http://www.wisc.edu).
 
-Before, I was a postdoc at the [Department of Human
-Genetics](https://genetics.emory.edu/) at [Emory
-University](http://www.emory.edu) working with professor [Michael
-Epstein](http://genetics.emory.edu/faculty/primary/epstein-michael.html)
-on Genome-Wide Association Studies, and before that, I was a postdoc in UW-Madison working with professor [Bret
-Larget](http://www.stat.wisc.edu/~larget) on statistical computing
-methods for Bayesian phylogenetics.
-
-I did my PhD in [Statistics](http://www.stat.wisc.edu) at the [University of Wisconsin-Madison](http://www.wisc.edu)
-with professor [Cécile Ané](http://www.stat.wisc.edu/~ane) in the inference of phylogenetic networks to represent the
-tree of life expanded by extra hybridization edges. Understanding the evolutionary history of species is essential
-to conservation efforts and to discover the tree of life.
-
-I obtained my Master's degree in [Mathematics](http://www.math.wisc.edu) at the [University of Wisconsin-Madison](http://www.wisc.edu)
-with emphasis on probability theory.
-
-I am originally from Mexico City where I did my Undergraduate degrees
-in Actuarial Sciences and Applied Mathematics at [ITAM](https://www.itam.mx/en).
+My research involves the development of statistical models to answer biological questions, balancing biological interpretability, theoretical guarantees, and computational tractability. In particular, my research deals with modern big data which are highly interconnected through graphical structures. Examples of my research involve the inference of phylogenetic networks to study reticulate evolution, comparative methods on networks to study the evolution of traits on hybrids, new sampling schemes to improve on Bayesian MCMC tools, as well as the application of such new tools to real-life datasets such as cultivated potato and carrot, _Pseudomonas aeruginosa_, _Staphylococcus aureus_, human endogenous retroviruses among others. Next generation sequencing creates a big data reality that can make current methodologies prohibitive due to computational restrictions. My work produces a collection of new statistical methods with solid theoretical guarantees and efficient computational implementations that are adaptable to analyze the complex characteristics of modern big biological data.
 
 In my spare time, I enjoy swimming, running, biking and yoga!
 
+**Interested in joining the lab?** See the information in the "Opportunities" section (top right).
+
+
+## Education
+- PhD in [Statistics](http://www.stat.wisc.edu) at the [University of Wisconsin-Madison](http://www.wisc.edu) with professor [Cécile Ané](http://www.stat.wisc.edu/~ane)
+- MA in [Mathematics](http://www.math.wisc.edu) at the [University of Wisconsin-Madison](http://www.wisc.edu)
+- Originally from Mexico City, I did my Undergraduate degrees
+in Actuarial Sciences and Applied Mathematics at [ITAM](https://www.itam.mx/en).
 
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)](https://github.com/crsl4/crsl4.github.io/blob/master/assets/cv.pdf)
