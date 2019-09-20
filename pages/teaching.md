@@ -25,18 +25,17 @@ Useful resources:
 - R Markdown: [The Definite Guide](https://bookdown.org/yihui/rmarkdown/)
 - Rich Edwards (2015) [Bioinformatics is just like bench science and should be treated as such](http://cabbagesofdoom.blogspot.com/2015/08/bioinformatics-is-just-like-bench.html)
 
-### <a name="courses"></a>Current courses
+### <a name="courses"></a>Recent courses
 
 - 2019: Faculty member of the Marine Biological Laboratory workshop on Molecular Evolution (10 days). Lecture on phylogenetic networks. Woods Hole, USA.
-
-#### Botany 563; Spring, 2016
-
-##### Guest lecture: Introduction to phylogenetic networks
-
-- [slides](http://www.stat.wisc.edu/~claudia/networks_talkBotany.pdf)
-- [code](http://www.stat.wisc.edu/~claudia/smallTutorialBotany.jl)
+- 2016: Botany 563 Guest lecture: Introduction to phylogenetic networks
+    - [slides](http://www.stat.wisc.edu/~claudia/networks_talkBotany.pdf)
+    - [code](http://www.stat.wisc.edu/~claudia/smallTutorialBotany.jl)
 
 ### <a name="tutorials"></a>Tutorials
+
+#### Molecular Evolution Workshop at Woods Hole 2019
+- [wiki](https://github.com/crsl4/PhyloNetworks.jl/wiki)
 
 #### Instituto de Biolog&iacute;a - UNAM
 
@@ -80,6 +79,9 @@ Same tutorial as in Evolution 2016, links below.
 - Spring 2010 Actuarial Mathematics III
 
 ### <a name="mentoring"></a>Mentoring experience
+
+##### 2019 
+- Software Development Project, **Fast reconstruction and visualization of phylogenetic networks**, Harnoor Singh and Naman Kanwar – Georgia State University.
 
 ##### 2018
 - Software Development Project, **Julia package for GAMuT test**, [Anna Voss](https://github.com/avoss3) - Emory University
