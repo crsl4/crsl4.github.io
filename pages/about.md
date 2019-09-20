@@ -10,10 +10,7 @@ My research involves the development of statistical models to answer biological 
 
 In my spare time, I enjoy swimming, running, biking and yoga!
 
-**Interested in joining the lab?** See the information in the "Opportunities" section (top right).
-
-
-## Education
+#### Education
 - PhD in [Statistics](http://www.stat.wisc.edu) at the [University of Wisconsin-Madison](http://www.wisc.edu) with professor [Cécile Ané](http://www.stat.wisc.edu/~ane)
 - MA in [Mathematics](http://www.math.wisc.edu) at the [University of Wisconsin-Madison](http://www.wisc.edu)
 - Originally from Mexico City, I did my Undergraduate degrees
@@ -21,6 +18,9 @@ in Actuarial Sciences and Applied Mathematics at [ITAM](https://www.itam.mx/en).
 
 
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)](https://github.com/crsl4/crsl4.github.io/blob/master/assets/cv.pdf)
+
+**Interested in joining the lab?** See the information in the "Opportunities" section (top right).
+
 
 ---
 
