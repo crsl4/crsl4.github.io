@@ -4,11 +4,13 @@ title: opportunities
 description: Claudia Solis-Lemus
 ---
 
+My lab is located in the [Wisconsin Institute for Discovery](https://wid.wisc.edu/), which provides immense opportunities for interdisciplinary connections and networking for students and postdocs!
+
 ## Postdocs
 
 I am interested in collaborating with postdocs with any research background: biology, computer science, statistics, mathematics from theoretical/computational work to empirical.
 
-For people with computational biology/statistics/data science background, there are several opportunities to become involved in ongoing projects related to my research: phylogenetic networks, bayesian phylogenetic inference, high-dimensional highly-correlated regression models applied to genomic/biological data, neural networks to predict phenotyoes like antibiotic-resistance, among others.
+For people with computational biology/statistics/data science background, there are several opportunities to become involved in ongoing projects related to my research: phylogenetic networks, bayesian phylogenetic inference, high-dimensional highly-correlated regression models applied to genomic/biological data, neural networks to predict phenotypes like antibiotic-resistance, among others.
 
 In addition, I am also excited to work with people interested in empirical research by teaming up with other faculty in the department. 
 
