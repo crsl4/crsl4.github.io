@@ -27,6 +27,8 @@ Useful resources:
 
 ### <a name="courses"></a>Current courses
 
+- 2019: Faculty member of the Marine Biological Laboratory workshop on Molecular Evolution (10 days). Lecture on phylogenetic networks. Woods Hole, USA.
+
 #### Botany 563; Spring, 2016
 
 ##### Guest lecture: Introduction to phylogenetic networks

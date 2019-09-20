@@ -9,15 +9,19 @@ description: Claudia Solis-Lemus' talks
 ### 2019
 
 Taming the BEAST - Squamish, BC: Bayesian phylogenetic inference for big data.
+[![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/talk-mcmc.pdf)
 (_Aug 16_)
 
 Taming the BEAST - Squamish, BC: Statistical models on phylogenetic networks.
+[![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/talk-networks-mbl.pdf)
 (_Aug 14_)
 
 Molecular Evolution Workshop - Woods Hole, MA: Statistical models on phylogenetic networks
+[![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/talk-networks-ttb.pdf)
 (_Aug 6_)
 
 Women in STEM conference - Georgia State University: Through the looking glass of Data Science
+[![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/talk-women-stem.pdf)
 (_Apr 5_)
 
 ### 2018
