@@ -18,16 +18,23 @@ description: Claudia Solis-Lemus' teaching
 
 ### <a name="knowledge"></a>Useful links
 
-Useful resources:
+#### Reprodubility and data science
 - Karl Broman's [notes](http://kbroman.org/Tools4RR/) on reproducible research
 - Version control: [notes](https://uw-madison-aci.github.io/2018-01-10-uwmadison-swc/) from Software Carpentry at UW-Madison (there might be more recent notes out there)
 - Tukey (1962) [The future of data analysis](https://projecteuclid.org/euclid.aoms/1177704711)
 - R Markdown: [The Definite Guide](https://bookdown.org/yihui/rmarkdown/)
 - Rich Edwards (2015) [Bioinformatics is just like bench science and should be treated as such](http://cabbagesofdoom.blogspot.com/2015/08/bioinformatics-is-just-like-bench.html)
 
+#### Learning Julia
+- Learn X in Y minutes: [julia](https://learnxinyminutes.com/docs/julia/)
+- Julia for R programmmers: [cheatsheet](https://datascience-enthusiast.com/R/R_Julia_cheat_sheet.html)
+- Julia for Python/Matlab programmers: [cheatsheet](https://cheatsheets.quantecon.org/)
+
 ### <a name="courses"></a>Recent courses
 
-- 2019: Faculty member of the Marine Biological Laboratory workshop on Molecular Evolution (10 days). Lecture on phylogenetic networks. Woods Hole, USA.
+- 2019: Faculty member of the Marine Biological Laboratory workshop on Molecular Evolution. Lecture and tutorial on phylogenetic networks. Woods Hole, USA.
+    - [slides](https://www.stat.wisc.edu/~claudia/talk-networks-mbl.pdf)
+    - [wiki](https://github.com/crsl4/PhyloNetworks.jl/wiki)
 - 2016: Botany 563 Guest lecture: Introduction to phylogenetic networks
     - [slides](http://www.stat.wisc.edu/~claudia/networks_talkBotany.pdf)
     - [code](http://www.stat.wisc.edu/~claudia/smallTutorialBotany.jl)
@@ -35,17 +42,13 @@ Useful resources:
 ### <a name="tutorials"></a>Tutorials
 
 #### Molecular Evolution Workshop at Woods Hole 2019
-- [wiki](https://github.com/crsl4/PhyloNetworks.jl/wiki)
+Tutorial on inference of phylogenetic networks using Julia package: [PhyloNetworks](https://github.com/crsl4/PhyloNetworks.jl/wiki)
 
 #### Instituto de Biolog&iacute;a - UNAM
-
-##### Introduction to PhyloNetworks and SNaQ
-
-Same tutorial as in Evolution 2016, links below.
+Introduction to PhyloNetworks and SNaQ: Same tutorial as in Evolution 2016, links below.
 
 #### Evolution 2016
-
-##### Phylogenomics symposium and software school: Introduction to PhyloNetworks and SNaQ
+Phylogenomics symposium and software school: Introduction to PhyloNetworks and SNaQ
 
 - [wiki](https://github.com/crsl4/PhyloNetworks.jl/wiki)
 - [julia code](http://www.stat.wisc.edu/~claudia/tutorial.jl)

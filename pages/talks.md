@@ -13,11 +13,11 @@ Taming the BEAST - Squamish, BC: Bayesian phylogenetic inference for big data.
 (_Aug 16_)
 
 Taming the BEAST - Squamish, BC: Statistical models on phylogenetic networks.
-[![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/talk-networks-mbl.pdf)
+[![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/talk-networks-ttb.pdf)
 (_Aug 14_)
 
 Molecular Evolution Workshop - Woods Hole, MA: Statistical models on phylogenetic networks
-[![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/talk-networks-ttb.pdf)
+[![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/talk-networks-mbl.pdf)
 (_Aug 6_)
 
 Women in STEM conference - Georgia State University: Through the looking glass of Data Science
