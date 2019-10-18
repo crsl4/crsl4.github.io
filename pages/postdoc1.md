@@ -25,8 +25,8 @@ Twitter: Grad students/postdoc positions @UWMadison @WIDiscovery. Interdisciplin
 
 ----------------------------
 
-- What: Undergraduate/graduate/postdoc research positions in Data Science, Statistics, CS, Machine Learning
+- What: Undergraduate/graduate/postdoc research positions in Data Science, Statistics, CS, Machine Learning (http://crsl4.github.io/pages/news.html)
 - Where: Wisconsin Institute for Discovery at the University of Wisconsin-Madison (https://wid.wisc.edu/)
 - Details: Opportunities in different research projects like the development of scalable methods/software for high-dimensional big genomic data, graphical models to understand interactions in microbiome data related to human or plant health, neural networks/deep learning models to predict antibiotic-resistance, website visualization tools for biological networks, among others
-- Professor: Claudia Solis-Lemus' multi-disciplinary research involves the development of statistical models to answer biological questions, balancing biological interpretability, theoretical statistical guarantees, and computational tractability
-- Contact info: http://crsl4.github.io/pages/about.html (use "Data Science position" in email subject)
+- Professor: Claudia Solis-Lemus (UW Stat alumna!) has multi-disciplinary research in the development of statistical models to answer biological questions, balancing biological interpretability, theoretical statistical guarantees, and computational tractability
+- Contact info: http://crsl4.github.io/pages/about.html (please use "Data Science position" in email subject and include CV)
