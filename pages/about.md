@@ -43,7 +43,7 @@ See the information in the "Opportunities" section (top right).
             </b><code>c</code><b>me</b><code>.</code><b>alone</b><code>e</code><b>!</b><code>du</code><br/>
             Twitter: <code>@</code><b>I</b><code>sol</code><b>don't</b><code>is</code><b>want</b><code></code><b>spam!
             </b><code>le</code><b>So</b><code>m</code><b>please</b><code>u</code><b>leave
-            </b><code>s</code><b>me</b><code>l</code><b>alone</b><code>b</code><b>!</b><code>ab</code><br/>            
+            </b><code>s</code><b>me</b><code>l</code><b>alone</b><code>a</code><b>!</b><code>b</code><br/>            
             </div>
         </div>
 
