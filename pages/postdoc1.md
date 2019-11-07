@@ -30,3 +30,56 @@ Twitter: Grad students/postdoc positions @UWMadison @WIDiscovery. Interdisciplin
 - Details: Opportunities in different research projects like the development of scalable methods/software for high-dimensional big genomic data, graphical models to understand interactions in microbiome data related to human or plant health, neural networks/deep learning models to predict antibiotic-resistance, website visualization tools for biological networks, among others
 - Professor: Claudia Solis-Lemus (UW Stat alumna!) has multi-disciplinary research in the development of statistical models to answer biological questions, balancing biological interpretability, theoretical statistical guarantees, and computational tractability
 - Contact info: http://crsl4.github.io/pages/about.html (please use "Data Science position" in email subject and include CV)
+
+-----------------------------
+
+Research opportunities in Data Science, Statistics, CS, Machine Learning in models for big genomic data, neural networks/deep learning to predict antibiotic-resistance, website visualization tools for biological networks, among others
+
+
+------------------------------
+
+Hi Maria Luisa,
+
+Thanks for the chat weeks ago! Sorry for my tardiness, but I've been travelling too much.
+
+I write below a short description of the different projects in my lab, and I include 10,000 references for you to check.
+Let's aim to have another videocall by mid-November to discuss, if this works for you.
+
+Project 1: Phylogenetic inference
+Background: The tree of life is a binary tree structure that represents how species evolved in time. The root of the tree represents the origin of life, and the leaves of the tree (external nodes) represent species in the present.
+The goal of phylogenetic inference is to estimate this tree from DNA sequences. This is a difficult task because the parameter of interest (tree) is in a non-euclidean space, so optimization is challenging. Traversal of tree space is slow too, so MCMC approaches for bayesian inference are inefficient.
+Furthermore, for some species (bacteria), a tree is not a good representation of evolution as these species hybridize, so a fully bifurcating tree is unable to capture hybridization events, which represented by joining of branches. Thus, many times a network is the parameter of interest (instead of a tree).
+Broad objectives of this project:
+-- Improve estimation of phylogenetic networks. Currently, the method we have works for level-1 networks (restricted class), we want to expand to other types of networks. This involves studying in the likelihood surface is identifiable (not flat) to estimate the MLE, and improving optimization techniques to search the space of networks. Exploring bayesian approaches with MCMC is also possible.
+-- Improve bayesian inference of trees by proposing new sampling schemes to MCMC. I attach a draft of an ongoing project that uses importance sampling, but we are exploring other venues too.
+References:
+-- paper on network model
+-- my paper on pseudolikelihood model
+-- my paper on the network software
+-- paper on bayesian models on networks
+-- another paper on bayesian models on networks
+-- blog of state-of-the-art bayesian phylogenetics
+-- also see attached ms.pdf (please don't share with anyone as this is unpublished work)
+This project is by far my favorite (this is primarily my area of expertise), but this project has two challenges: 1) it has a steep learning curve if you are not familiar with phylogenetics, so it might take you a while to catch up, and 2) this is a very competitive area with many people working on the same topics, so the danger of working on something and then someone else publishing it before you is very real (and painful). Personally, I would love to work on this with you, but we just have to be super smart about it.
+
+Project 2: High-dimensional regression for human and plant disease
+This project is an extension of the standard penalized regression tools (like lasso, see here original paper) and of the relatively new post-selection methods (see paper here) to the case of multiple layers of correlation. Our data matrix X represents the genome and other measured covariates, and our response Y is something related to disease (could be binary 0/1 healthy/sick, or continuous measures like blood pressure). We will work on the case when the columns of X are highly correlated and the rows of X are highly correlated.
+Broad objective:
+We want to estimate the effect that each column of X has on Y, and estimate some measure of support (confidence intervals, p-values). This project is more statistical perhaps, and involves the development of likelihood model, study of identifiability, and development of asymptotic distribution for estimates.
+I believe this project is more straight-forward, and I believe that it will be faster to get publications in this project. There are also a few more areas of potential funding, but it is not the most exciting of the projects that I am working on.
+
+Project 3: Statistical models for microbiome data
+This is the project that is vaguer in my mind, mostly because it is very new. We have microbiome data for each individual (plant or human) represented in a graph (each node corresponds to a species of bacteria and two nodes are connected by an edge if the bacteria are correlated). We have a measured response for each individual (Y) which corresponds to health (e.g. 0/1 healthy/sick status, or continuous measures that correlated with health like blood pressure for humans).
+So the data looks like G_1,...,G_n (n graphs for n individuals) and responses Y_1,...,Y_n. We want to see how G_i explains/predicts Y_i.
+Standard approach uses adjacency matrix of G, but I believe there must be better ways.
+References (very very few on this area)
+-- Bayesian regression for network predictors
+-- Variance of graph objects
+Broad objectives
+Find better methods to understand the connection between a graph predictor and a response (continuous or binary). This project is super new, and I believe that there is going to be a lot of interest in this field in the upcoming years because of the microbiome is in the spotlight. The downside of this project is that everything is super new, so there is not much to build on. We will basically need to build everything from scratch, which is exciting mathematically/statistically, but also a bit stressful.
+
+
+I know that I am sending this info super late, but if you could get back to me within two weeks (by November 18th), it would help us prepare your visit for the first week of December if you are still interested. You do not need to have any concrete ideas, just an overall impression of the projects, and whether any of them interest you. We can schedule another talk that week.
+
+Thanks!
+Claudia

@@ -19,6 +19,7 @@ description: Claudia Solis-Lemus' teaching
 ### <a name="knowledge"></a>Useful links
 
 #### Reprodubility and data science
+- My notes on [mindful programming](https://github.com/crsl4/mindful-programming)
 - Karl Broman's [notes](http://kbroman.org/Tools4RR/) on reproducible research
 - Version control: [notes](https://uw-madison-aci.github.io/2018-01-10-uwmadison-swc/) from Software Carpentry at UW-Madison (there might be more recent notes out there)
 - Tukey (1962) [The future of data analysis](https://projecteuclid.org/euclid.aoms/1177704711)
@@ -40,6 +41,9 @@ description: Claudia Solis-Lemus' teaching
     - [code](http://www.stat.wisc.edu/~claudia/smallTutorialBotany.jl)
 
 ### <a name="tutorials"></a>Tutorials
+
+#### Nantucket developR 2019
+Tutorial on best computing practices using R: [mindful programming](https://github.com/crsl4/mindful-programming). Notes from other instructors [here](https://github.com/NantucketDevelopeR/2019Workshop).
 
 #### Molecular Evolution Workshop at Woods Hole 2019
 Tutorial on inference of phylogenetic networks using Julia package: [PhyloNetworks](https://github.com/crsl4/PhyloNetworks.jl/wiki)

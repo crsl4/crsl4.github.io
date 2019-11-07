@@ -8,6 +8,17 @@ description: Claudia Solis-Lemus' talks
 
 ### 2019
 
+Nantucket [developR](https://github.com/NantucketDevelopeR/2019Workshop) - Nantucket, MA: From mindful programming to reproducible research [github](https://github.com/crsl4/mindful-programming) 
+(_Nov 6_)
+
+Bio-mathematics seminar - Georgia Tech: Phylogenetic inference for big data.
+[![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/talk-mcmc-net.pdf)
+(_Oct 31_)
+
+HAMLET seminar - UW-Madison: Using neural networks to predict antibiotic resistance from genomic data.
+[![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/talk-hamlet.pdf)
+(_Oct 25_)
+
 Taming the BEAST - Squamish, BC: Bayesian phylogenetic inference for big data.
 [![pdf](icons16/pdf-icon.png)](https://www.stat.wisc.edu/~claudia/talk-mcmc.pdf)
 (_Aug 16_)
