@@ -15,6 +15,9 @@ description: Claudia Solis-Lemus' publications
 
 #### 2019
 
+Sol&iacute;s-Lemus, C., S. T. Fischer, A. Todor, C. Liu, E. J. Leslie, D. J. Cutler, D. Ghosh and M. P. Epstein. 2019. Leveraging Family History in Case-Control Analyses of Rare Variation.
+[GENETICS](https://doi.org/10.1534/genetics.119.302846)
+
 Sol&iacute;s-Lemus, C., Ma, X., Hostetter II, M., Kundu, S., Qiu, P., Pimentel-Alarc&oacute;n D., 2019. Prediction of functional markers of mass cytometry data via deep learning. Biostatistics and Bioinformatics, Springer.
 
 #### 2018
