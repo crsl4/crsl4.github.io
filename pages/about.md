@@ -35,6 +35,7 @@ See the information in the "Opportunities" section (top right).
             Office 476 <a href="https://plantpath.wisc.edu/">Department of Plant Pathology </a><br/>
             <a href="https://www.wisc.edu/">University of Wisconsin-Madison</a><br/>
             Madison, WI 53715<br/>
+            Phone: (608) 316-4568<br/>
             USA<br/><br/>
 
             <div id="hide_email">
