@@ -83,3 +83,49 @@ I know that I am sending this info super late, but if you could get back to me w
 
 Thanks!
 Claudia
+
+
+----------------------------
+Updated description:
+
+Project 1: Phylogenetic networks. 
+Broader objective: extend estimation of phylogenetic networks to microbial organisms that are more challenging as they violate many of the usual phylogenetic assumptions. This area has many other mathematical theory like statistics/measures/distances on tree and network space
+References:
+- attached lit-search.md file
+- paper on tree space: http://finmath.stanford.edu/~susan/papers/lap.pdf
+
+Project 2: High-dimensional regression for human and plant disease
+This project is an extension of the standard penalized regression tools (like lasso) and of the relatively new post-selection methods to the case of multiple layers of correlation. Our data matrix X represents the genome and other measured covariates, and our response Y is something related to disease (could be binary 0/1 healthy/sick, or continuous measures like blood pressure). We will work on the case when the columns of X are highly correlated and the rows of X are highly correlated.
+Broad objective:
+We want to estimate the effect that each column of X has on Y, and estimate some measure of support (confidence intervals, p-values). This project is more statistical perhaps, and involves the development of likelihood model, study of identifiability, and development of asymptotic distribution for estimates.
+References:
+- Doug Bates julia package to read huge genomic data: https://github.com/dmbates/BEDFiles.jl
+- Zhou2019 and Papachristou2015 papers for motivation and examples
+- add post selection paper
+
+Project 3: Statistical models for microbiome data
+This is the project that is vaguer in my mind, mostly because it is very new. We have microbiome data for each individual (plant or human) represented in a graph (each node corresponds to a species of bacteria and two nodes are connected by an edge if the bacteria are correlated). We have a measured response for each individual (Y) which corresponds to health (e.g. 0/1 healthy/sick status, or continuous measures that correlated with health like blood pressure for humans).
+So the data looks like G_1,...,G_n (n graphs for n individuals) and responses Y_1,...,Y_n. We want to see how G_i explains/predicts Y_i.
+Standard approach uses adjacency matrix of G, but I believe there must be better ways.
+References (very very few on this area)
+-- Guha2018
+-- Dubey2017
+Broad objectives
+Find better methods to understand the connection between a graph predictor and a response (continuous or binary). This project is super new, and I believe that there is going to be a lot of interest in this field in the upcoming years because of the microbiome is in the spotlight. The downside of this project is that everything is super new, so there is not much to build on. We will basically need to build everything from scratch, which is exciting mathematically/statistically, but also a bit stressful.
+
+Take your time to read about these ideas, and get back to me if you need to chat more or if you make a decision. To reiterate what we discuss, I expect to have RA funds for students, but as of right now, it will not be possible for Fall 2020 (something to consider). Also, if you do decide to join my lab, I request people to follow "best computing practices" (in lecture.html attached), as well as other good practices in research (that I have not finished typing). Finally, if you wouldn't mind sharing your transcript with me, it would be great. I do not care about the grades, but I am curious to know the classes that you have taken to better advise on projects/ideas.
+
+
+
+------------------------------
+CIMAT (maybe wait for logo?)
+
+Subject: PhD/Postdoc positions at University of Wisconsin-Madison
+
+- What:
+    1. Postdoctoral position in the intersection of genomics, data science, computational biology, statistics (application anytime)
+    2. Graduate student positions in PhD in Statistics, PhD in Mathematics, PhD in CS, or PhD in Plant Pathology (application deadlines in December 2020)
+- Where: Wisconsin Institute for Discovery at the University of Wisconsin-Madison (https://wid.wisc.edu/)
+- PI: Claudia Solis-Lemus' research involves the development of statistical models to answer biological questions, balancing biological interpretability, theoretical guarantees, and computational tractability. More details here: http://crsl4.github.io/pages/news.html
+- Research project: Open to discussion! Several opportunities in ongoing projects: high-dimensional highly-correlated regression models and post selection inference applied to omics data, statistical properties and guarantees on neural networks/deep learning models.
+- Contact info here: http://crsl4.github.io/pages/about.html (email CV and one/two paragraph(s) of research experience)
