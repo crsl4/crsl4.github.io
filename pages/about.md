@@ -4,6 +4,19 @@ title: about
 description: Claudia Sol&iacute;s-Lemus
 ---
 
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="https://github.com/crsl4/crsl4.github.io/blob/master/assets/cv.pdf">cv</a></li>
+          <li><a href="https://github.com/crsl4">github</a></li>
+          <li><a href="https://scholar.google.com/citations?user=GrUypj8AAAAJ&hl=en&oi=ao">google-scholar</a></li>
+          <li><a href="https://solislemuslab.github.io/">lab-website</a></li>
+          <li><a href="https://www.athlinks.com/athletes/267606489">athlinks</a></li>
+      </ul>
+  </div>
+</div>
+
+
 I am an assistant professor at the [Wisconsin Institute for Discovery](https://wid.wisc.edu/) and the [Department of Plant Pathology](https://plantpath.wisc.edu/) at the [University of Wisconsin-Madison](http://www.wisc.edu).
 
 My research involves the development of statistical models to answer biological questions, balancing biological interpretability, theoretical guarantees, and computational tractability. In particular, my research deals with modern big data which are highly interconnected through graphical structures. Examples of my research involve the inference of phylogenetic networks to study reticulate evolution, comparative methods on networks to study the evolution of traits on hybrids, new sampling schemes to improve on Bayesian MCMC tools, as well as the application of such new tools to real-life datasets such as cultivated potato and carrot, _Pseudomonas aeruginosa_, _Staphylococcus aureus_, human endogenous retroviruses among others. Next generation sequencing creates a big data reality that can make current methodologies prohibitive due to computational restrictions. My work produces a collection of new statistical methods with solid theoretical guarantees and efficient computational implementations that are adaptable to analyze the complex characteristics of modern big biological data.
@@ -15,12 +28,6 @@ In my spare time, I enjoy swimming, running, biking and yoga!
 - MA in [Mathematics](http://www.math.wisc.edu) at the [University of Wisconsin-Madison](http://www.wisc.edu)
 - Originally from Mexico City, I did my Undergraduate degrees
 in Actuarial Sciences and Applied Mathematics at [ITAM](https://www.itam.mx/en).
-
-
-[curriculum vitae ![CV as pdf](icons16/pdf-icon.png)](https://github.com/crsl4/crsl4.github.io/blob/master/assets/cv.pdf)
-
-#### Interested in joining the lab?
-See the information in the "Opportunities" section (top right).
 
 
 ---
