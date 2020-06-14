@@ -29,6 +29,7 @@ In my spare time, I enjoy swimming, running, biking and yoga!
 - Originally from Mexico City, I did my Undergraduate degrees
 in Actuarial Sciences and Applied Mathematics at [ITAM](https://www.itam.mx/en).
 
+#### Visit my [lab website](https://solislemuslab.github.io/) for more information about research, software, talks and more!
 
 ---
 
